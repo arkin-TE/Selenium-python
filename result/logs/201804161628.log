@@ -1,0 +1,11 @@
+2018-04-16 16:28:18,520 - BrowserEngine - INFO - You had select Chrome browser
+2018-04-16 16:28:18,520 - BrowserEngine - INFO - The test server url is: https://baidu.com
+2018-04-16 16:28:22,739 - BrowserEngine - INFO - Staring Chrome browser.
+2018-04-16 16:28:24,479 - BrowserEngine - INFO - Open url: https://baidu.com
+2018-04-16 16:28:25,724 - BrowserEngine - INFO - Maximize the current window.
+2018-04-16 16:28:25,726 - BrowserEngine - INFO - Set imlicitly wait 30 seconds.
+2018-04-16 16:28:25,773 - BaseDriver - INFO - Had find the element '  ' successful by id via value: kw 
+2018-04-16 16:28:26,016 - BaseDriver - INFO - Had type ' selenium ' in inputBox
+2018-04-16 16:28:26,061 - BaseDriver - INFO - Had find the element '  ' successful by id via value: su 
+2018-04-16 16:28:29,157 - BaseDriver - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="c184e069524bf7af6481e8b02fdb059d", element="0.3305537509944536-2")> ' was clicked.
+2018-04-16 16:28:29,157 - BaiDuSearch - INFO - 百度搜索：selenium  测试通过

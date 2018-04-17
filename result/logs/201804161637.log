@@ -1,0 +1,22 @@
+2018-04-16 16:37:01,069 - BrowserEngine - INFO - You had select Chrome browser
+2018-04-16 16:37:01,069 - BrowserEngine - INFO - The test server url is: https://baidu.com
+2018-04-16 16:37:05,338 - BrowserEngine - INFO - Staring Chrome browser.
+2018-04-16 16:37:06,719 - BrowserEngine - INFO - Open url: https://baidu.com
+2018-04-16 16:37:08,007 - BrowserEngine - INFO - Maximize the current window.
+2018-04-16 16:37:08,012 - BrowserEngine - INFO - Set imlicitly wait 30 seconds.
+2018-04-16 16:37:08,075 - BaseDriver - INFO - Had find the element '  ' successful by id via value: kw 
+2018-04-16 16:37:08,299 - BaseDriver - INFO - Had type ' selenium ' in inputBox
+2018-04-16 16:37:08,344 - BaseDriver - INFO - Had find the element '  ' successful by id via value: su 
+2018-04-16 16:37:11,437 - BaseDriver - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="050e4e0ee3f0531412f0e86767bd3200", element="0.5007153818130017-2")> ' was clicked.
+2018-04-16 16:37:11,437 - BaiDuSearch - INFO - 百度搜索：selenium  测试通过
+2018-04-16 16:37:50,750 - BrowserEngine - INFO - You had select Chrome browser
+2018-04-16 16:37:50,750 - BrowserEngine - INFO - The test server url is: https://baidu.com
+2018-04-16 16:37:55,148 - BrowserEngine - INFO - Staring Chrome browser.
+2018-04-16 16:37:56,286 - BrowserEngine - INFO - Open url: https://baidu.com
+2018-04-16 16:37:57,535 - BrowserEngine - INFO - Maximize the current window.
+2018-04-16 16:37:57,536 - BrowserEngine - INFO - Set imlicitly wait 30 seconds.
+2018-04-16 16:37:57,624 - BaseDriver - INFO - Had find the element '  ' successful by id via value: kw 
+2018-04-16 16:37:57,865 - BaseDriver - INFO - Had type ' selenium ' in inputBox
+2018-04-16 16:37:57,911 - BaseDriver - INFO - Had find the element '  ' successful by id via value: su 
+2018-04-16 16:38:01,016 - BaseDriver - INFO - The element ' <selenium.webdriver.remote.webelement.WebElement (session="19b1156161bd04493340add5ee427e4e", element="0.5185391578652943-2")> ' was clicked.
+2018-04-16 16:38:01,016 - BaiDuSearch - INFO - 百度搜索：selenium  测试通过
